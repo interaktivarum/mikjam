@@ -32,7 +32,7 @@
           för demokratin 💪
         </h2>
 
-        <a href="https://docs.google.com/forms/d/17-0ZTjN8CemgEJfscMpAsjsKkvx71VhCEsmENrQC6jY" target="_blank" class="register screenSmall">
+        <a href="https://forms.gle/CoJrVDAPCqPxoLUA6" target="_blank" class="register screenSmall">
           Ansök till MIK-jam!
         </a>
 
@@ -128,7 +128,7 @@
 
           <h3>Jag vill delta!</h3>
           <p>
-            Vad kul! Du anmäler dig genom att fylla i detta <a href="https://docs.google.com/forms/d/17-0ZTjN8CemgEJfscMpAsjsKkvx71VhCEsmENrQC6jY" target="_blank">intresseformulär</a>.
+            Vad kul! Du ansöker om att delta genom att fylla i detta <a href="https://forms.gle/CoJrVDAPCqPxoLUA6" target="_blank">intresseformulär</a>.
           </p>
 
         </div>
@@ -361,7 +361,7 @@
           Plats: Arbetets Museum, Norrköping
         </h3>
         <br />
-        <a href="https://docs.google.com/forms/d/17-0ZTjN8CemgEJfscMpAsjsKkvx71VhCEsmENrQC6jY" target="_blank" class="register">
+        <a href="https://forms.gle/CoJrVDAPCqPxoLUA6" target="_blank" class="register">
           Ansök till MIK-jam!
         </a>
         <span class="small">
@@ -499,6 +499,7 @@ td:not(:first-child){
   display: flex;
   flex-direction: row;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .logos .logo{
