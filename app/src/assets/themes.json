@@ -1,0 +1,85 @@
+{
+  "themes": [
+    {
+      "name": "Fake news - vem kan jag lita på?",
+      "description": "I ett digitalt präglat samhälle behöver en duktig källkritiker ha grundläggande teknisk förståelse. För att kritiskt granska digitalt innehåll och avgöra dess trovärdighet behöver en förstå hur vem som helst kan skapa och sprida information och propaganda online, hur AI påverkar informationsspridning samt hur bild, ljud och video kan manipuleras.",
+      "challenges": [
+        "Hur kan biblioteken arbeta med digital källkritik tillsammans med besökarna?",
+        "I en digital värld där spelreglerna plötsligt kan ändras, hur säkerställer vi att bibliotekens kompetenser är tillräckliga och aktuella?",
+        "Hur vet man som vanlig medborgare vem man kan lita på? Hur avgör man ifall en webbplats, e-post eller ett filmklipp är pålitligt eller skapat för bedrägeri eller för att luras?",
+        "Hur kan en aktivitet eller ett digitalt verktyg hjälpa biblioteken och besökarna att tillämpa den källkritiska metoden?",
+        "Hur förstärks dessa utmaningar av exempelvis språkliga, kulturella och andra barriärer?"
+      ],
+      "mil": [0,1,2,3,4,5,7,8,9,10,11],
+      "youtube": {"id":"cQ54GDm1eL0", "description": "Manipulerat politikeruttalande som synliggör och skapar diskussion kring deepfakes och manipulerad bild, ljud och video."},
+      "color": "#e1f7d5"
+    },
+    {
+      "name": "Designa det demokratiska samtalet",
+      "description": "I såväl sökmotorer som sociala medier kan små rörelser och konspirationsteorier få fäste och oproportionerligt stort utrymme i det demokratiska samtalet. I sociala medier är tempot snabbt, och provocerande punchlines premieras över ansatser till djupa och reflekterande samtal. Med alltifrån grafiska designval till anpassade algoritmer har de stora plattformarna makten att styra användarens beteenden och surfmönster såväl som vilken information vi får ta del av.",
+      "challenges": [
+        "Hur påverkas det demokratiska samtalet när det förflyttas till företagsägda onlineplattformar?",
+        "Hur riskerar AI och autocompletes i sökmotorer och sociala medier att ge skjuts åt konspirationsteorier?",
+        "Hur speglas våra förutfattade meningar i hur vi formulerar sökfrågor, och hur påverkas sökresultaten?",
+        "Vilken makt är vi beredda att ge storföretagen att manuellt såväl som algoritmiskt framhäva eller filtrera bort bilder, åsikter och demokratiska uttryck, efter egna principer?",
+        "Vad innebär etiska algoritmer, och vilket ansvar har de stora plattformarna?"
+      ],
+      "mil": [0,1,2,3,4,5,8,9,10,11],
+      "youtube": {"id":"_vBggxCNNno", "description": "Digitalt verktyg eller samling tydliga exempel för att synliggöra design, algoritmer och etiska ställningstaganden av de stora onlineplattformarna."},
+      "color": "#e1f7d5"
+    },
+    {
+      "name": "Mina digitala fotspår",
+      "description": "När man surfar på internet kommunicerar många webbplatser med varandra och mängder av information samlas in om användarens surfvanor. Utifrån datan kan företag skapa sig en förståelse för användarens intressen, vilket kan användas för att erbjuda riktad reklam, rikta politisk information eller propaganda, eller sälja din personliga information vidare till andra företag.",
+      "challenges": [
+        "Hur kan gemene man bli mer medveten om och känna kontroll över sina digitala fotspår?",
+        "Vem äger vår personliga data, och vad kan den användas till av olika aktörer?",
+        "Hur ser övervakning ut internationellt och på global nivå? Vad kan vi lära av och diskutera kring detta?",
+        "Vad innebär cookies, trackers, riktad reklam, användaravtal, etc.?"
+      ],
+      "mil": [0,2,3,4,5,9,10,11],
+      "youtube": {"id":"PvqGy9wz_wA", "description": "Webbläsartillägg som synliggör cookies och trackers, som skapas när du besöker olika webbplatser."},
+      "color": "#ffbdbd"
+    },
+    {
+      "name": "VR- och AR-upplevelser",
+      "description": "Virtual reality kan användas för att resa till andra platser på jorden eller i universum, väcka minnen och lust hos äldre såväl som nyfikenhet hos barn och vuxna. VR är även kraftfullt för att förmedla andra personers vardag, exempelvis genom att filma en 360-video i ett flyktingläger eller designa en app som simulerar kognitiv funktionsnedsättning. Augmented reality används för kombinera den verkliga och virtuella världen, exempelvis genom att låta karaktärerna i en barnbok komma till liv när läsaren filmar boken med sin mobilkamera.",
+      "challenges": [
+        "Vilka immersiva upplevelser erbjuder dagens teknik, som passar bibliotekens besökare?",
+        "Hur kan VR och AR användas för att skapa ett ökat intresse för litteratur och litterära verk?",
+        "Hur kan VR och AR användas för att förklara och diskutera olika samhällsfunktioner och ämnen?",
+        "Vilka verktyg finns för att skapa enkla VR- och AR-prototyper på biblioteket, gärna tillsammans med besökarna?"
+      ],
+      "mil": [0,1,2,3,4,6,7,8,9,11],
+      "youtube": {"id":"Fhs10Yh-PiQ", "description": "AR-app som får barnböcker att komma till liv genom användarens mobiltelefon och kamera."},
+      "color": "#f1cbff"
+    },
+    {
+      "name": "Spel och simuleringar",
+      "description": "I speldebatten diskuteras alltifrån skärmtid, beroenden och stereotypa jargonger till ökad problemlösningsförmåga, övning i att samarbeta, språkinlärning och att lära känna nya kulturer. Många spel är mer än tidsfördriv och har samhälleliga såväl som litterära kopplingar, och används av engagerade pedagoger inom skolan för att skapa lust till lärande hos eleverna, något som har visat sig särskilt effektivt hos barn med kognitiva funktionsnedsättningar.",
+      "challenges": [
+        "Hur kan biblioteken arbeta med de olika sidorna i debatten kring spel och spelkultur?",
+        "Hur kan spel och spelifiering användas för att skapa ett ökat intresse för litteratur och litterära verk?",
+        "Hur kan spel och simuleringar användas för att förklara och diskutera olika samhällsfunktioner och ämnen?",
+        "Vilka verktyg finns för att skapa enkla spel på biblioteket, gärna tillsammans med besökarna?"
+      ],
+      "mil": [0,1,2,3,4,5,6,10],
+      "youtube": {"id":"gh_O4ZKUm0U", "description": "Kombinerad bok- och spelcirkel som diskuterar Odysséen och det antika Grekland utifrån olika kultur- och mediegestaltningar - eller ett helt nytt spel baserat på ett svenskt litterärt verk."},
+      "color": "#f1ffcb"
+    },
+    {
+      "name": "Biblioteket och vardagstekniken",
+      "description": "En stor del av bibliotekspersonalen uppger att mycket tid går åt att hjälpa besökare med vardagstekniska frågor eller problem såsom att skriva ut dokument, installera mobilappar, eller att förklara/visa hur BankID fungerar. Ofta innebär uppgifterna att enskild bibliotekspersonal hanterar besökares personliga och integritetskänslig data, och ställs därmed inför etiska dilemman.",
+      "challenges": [
+        "Hur designar vi ett enkelt alternativ för besökaren att få hjälp med sina vardagstekniska frågor?",
+        "Hur designar man ett digitalt verktyg för teknikskeptiska användare?",
+        "Hur kan biblioteken prata med besökarna om integritet och personlig data?",
+        "Hur kan biblioteken samverka bättre med andra aktörer, såsom myndigheter och banker?",
+        "Hur förstärks dessa utmaningar av exempelvis språkliga och andra barriärer?"
+      ],
+      "mil": [0,1,3,4,5],
+      "youtube": {"id":"zJHyaD1psMc", "description": "En flerspråkig och välkomnande robot eller chatbot som kan besvara besökarnas frågor och hjälpa med enklare information."},
+      "color": "#c9c9ff"
+    }
+  ]
+}

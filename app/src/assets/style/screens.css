@@ -1,0 +1,23 @@
+
+@media screen and (min-width: 1000px) {
+
+  .screenSmall{
+    display: none !important;
+  }
+
+  .screenLarge{
+  }
+
+}
+
+@media screen and (max-width: 1000px) {
+
+  .screenSmall{
+    display: normal;
+  }
+
+  .screenLarge{
+    display: none !important;
+  }
+
+}
