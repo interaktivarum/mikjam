@@ -13,7 +13,6 @@
 
       <div ref="mediaContainer">
         <iframe :width="mediaWidth" :height="mediaHeight" :src="'https://www.youtube.com/embed/'+theme.youtube.id" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
       </div>
 
       <p class="mediaDesc">
@@ -42,14 +41,12 @@
 import { store } from '@/store';
 import Challenges from '@/components/themes/Challenges'
 import Literacy from '@/components/themes/Literacy'
-import InfoCircle from '@/components/InfoCircle'
 
 export default {
   name: 'Theme',
   components: {
     Challenges,
     Literacy,
-    InfoCircle
   },
   data () {
     return {
@@ -72,7 +69,6 @@ export default {
     calcMediaDim: function () {
       this.mediaWidth = this.$refs["mediaContainer"].offsetWidth;
       this.mediaHeight = this.mediaWidth / 16 * 9;
-      console.log(this.mediaWidth)
     }
   },
   mounted: function () {

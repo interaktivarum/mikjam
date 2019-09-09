@@ -26,11 +26,13 @@ h2,h3,h4{
 }
 
 h1{
-  font-size: 3em;
+  font-size: 4em;
+  margin-top: 0.5em;
 }
 
 h2{
   font-size: 4em;
+  margin-top: 0.5em;
   margin-bottom: 0.1em;
 }
 
@@ -44,8 +46,7 @@ h4{
   color: gray;
   text-transform: uppercase;
   font-weight: 400;
-  margin-top: 0.05em;
-  margin-bottom: 0em;
+  margin-bottom: 0.2em;
 }
 
 .semibold{
@@ -69,4 +70,8 @@ h4{
 
 .inline{
   display: inline;
+}
+
+.gray{
+  color: gray;
 }

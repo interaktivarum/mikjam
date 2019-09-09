@@ -6,15 +6,7 @@
     </p>
 
     <p>
-      För universitetsstudenter innebär dagen även en utmärkt <strong>erfarenhet</strong> av att arbeta i ett skarpt projekt tillsammans med yrkeslivet och studenter från andra program.
-    </p>
-
-    <p>
-      Samtliga deltagare kommer att få ett signerat <strong>intyg och referenser</strong> för sitt deltagande i MIK-jam och har möjligheter till <strong>ekonomiskt stöd</strong> för fortsatt arbete och affärsutveckling av sina idéer.
-    </p>
-
-    <p>
-       Det är ni deltagare som kommer att <strong>forma MIK-jam och resultatet</strong>! Den breda och tvärvetenskapliga blandningen av kompetenser är vad som kommer att göra dagen lyckad: du kommer att arbeta tillsammans med alltifrån programmerare och designers till bibliotekspersonal och kulturvetare.
+       Det är deltagarna som tillsammans <strong>formar MIK-jam och resultatet</strong>! Den breda och tvärvetenskapliga blandningen av kompetenser är vad som gör ett MIK-jam lyckat, beroende på deltagare och målgrupp kan du komma att arbeta tillsammans med alltifrån programmerare och designers till bibliotekspersonal och kulturvetare.
     </p>
 
   </div>

@@ -1,0 +1,241 @@
+{
+  "jams": [
+    {
+      "date": "2019-05-13",
+      "location": "Arbetets Museum, Norrköping",
+      "description": "",
+      "info": "https://docs.google.com/document/d/1-c5U8g92rXNUBEDvOgmhkGc6jce5Fbu6GsSIJdFai8k/edit?usp=sharing",
+      "groups": [
+        {
+          "name": "Grupp 1",
+          "people": [
+            {
+              "name": "Alexander Tergeland",
+              "from": "Motala bibliotek"
+            },
+            {
+              "name": "Karin Nielsen Lundin",
+              "from": "Alléskolans bibliotek"
+            },
+            {
+              "name": "Nasrin Mohamoud",
+              "from": "Linköpings universitet"
+            },
+            {
+              "name": "Urban Jarvid",
+              "from": "Linköpings stadsbibliotek"
+            }
+          ],
+          "youtube": "fTmsj7O5350",
+          "licence": {
+            "name": "CC-BY",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        },
+        {
+          "name": "Grupp 2",
+          "people": [
+            {
+              "name": "Benjamin Forsberg",
+              "from": "Folkungaskolan"
+            },
+            {
+              "name": "Emelie Ekholm",
+              "from": "Motala Bibliotek"
+            },
+            {
+              "name": "Evelina Rydelius",
+              "from": "Linköpings universitet / Arbetets museum"
+            },
+            {
+              "name": "Hanna Carlsson",
+              "from": "Jenny Nyströmsskolan"
+            }
+          ],
+          "youtube": "sPntij7RATU",
+          "licence": {
+            "name": "CC-BY",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        },
+        {
+          "name": "Grupp 3",
+          "people": [
+            {
+              "name": "Alexander Sääf",
+              "from": "Linköpings universitet"
+            },
+            {
+              "name": "Brit Stakston",
+              "from": "Stakston / Blankspot"
+            },
+            {
+              "name": "Carina Milde",
+              "from": "Arbetets museum"
+            },
+            {
+              "name": "Malin Klintholm",
+              "from": "Biblioteksutveckling Sörmland"
+            }
+          ],
+          "youtube": "Suq5njKpV9U",
+          "urls": [
+            "https://marvelapp.com/8gje388/screen/56813640"
+          ],
+          "licence": {
+            "name": "CC-BY-SA",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "name": "Grupp 4",
+          "people": [
+            {
+              "name": "Karin Skill",
+              "from": "Linköpings Universitet"
+            },
+            {
+              "name": "Kim Ekerstad",
+              "from": "Linköpings stadsbibliotek"
+            },
+            {
+              "name": "Martin Johansson",
+              "from": "RISE Interactive"
+            },
+            {
+              "name": "Tore Haglund",
+              "from": "Linköpings Universitet"
+            }
+          ],
+          "youtube": "0aYRNePR2pk",
+          "licence": {
+            "name": "CC-BY",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        },
+        {
+          "name": "Grupp 5",
+          "people": [
+            {
+              "name": "Anders Thoresson",
+              "from": "Frilansjournalist"
+            },
+            {
+              "name": "Emma Rolander",
+              "from": "Regionbibliotek Uppsala"
+            },
+            {
+              "name": "Marika Alneng",
+              "from": "Biblioteksutveckling Sörmland"
+            },
+            {
+              "name": "Victoria Andersson",
+              "from": "Kulturförvaltningen Katrineholm"
+            }
+          ],
+          "youtube": "nI5t_Euhjdo",
+          "licence": {
+            "name": "CC-BY",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        },
+        {
+          "name": "Grupp 6",
+          "people": [
+            {
+              "name": "Emma Broman",
+              "from": "Linköpings Universitet"
+            },
+            {
+              "name": "Jimmy Andersén",
+              "from": "Töjnaskolan"
+            },
+            {
+              "name": "Karolina Hansson",
+              "from": "Gymnasiebiblioteket Åtvidaberg"
+            }
+          ],
+          "youtube": "X92ft6yfibw",
+          "licence": {
+            "name": "CC-BY",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        },
+        {
+          "name": "Grupp 7",
+          "people": [
+            {
+              "name": "Cajsa Nolskog",
+              "from": "Linköpings Universitet, alumn"
+            },
+            {
+              "name": "Frida Andersson",
+              "from": "Borås Museum"
+            },
+            {
+              "name": "Hanna Järvinen",
+              "from": "Norrköping Stadsbibliotek"
+            }
+          ],
+          "youtube": "MD3vSmB1PpM",
+          "licence": {
+            "name": "CC-BY-SA",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "name": "Grupp 8",
+          "people": [
+            {
+              "name": "David Zetterdahl",
+              "from": "Retroid Interactive"
+            },
+            {
+              "name": "Gabriella Nilsson Ringqvist",
+              "from": "Hageby bibliotek"
+            },
+            {
+              "name": "Gabriella Di Feola",
+              "from": "RISE interactive"
+            },
+            {
+              "name": "Mårten Mellberg",
+              "from": "Arbetets museum"
+            }
+          ],
+          "youtube": "-pdZpiaW2gg",
+          "licence": {
+            "name": "CC-BY-SA",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "name": "Grupp 9",
+          "people": [
+            {
+              "name": "Anna Danielsson",
+              "from": "Alléskolan"
+            },
+            {
+              "name": "Björn Ericson",
+              "from": "Norrköpings stadsbibliotek"
+            },
+            {
+              "name": "Susanne Kastbom",
+              "from": "Motala DigidelCenter / Motala bibliotek"
+            },
+            {
+              "name": "Keen Ilmi",
+              "from": "Katrineholms bibliotek / Kulturförvaltningen"
+            }
+          ],
+          "youtube": "8f-J2-dD9nA",
+          "licence": {
+            "name": "CC-BY",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        }
+      ]
+    }
+  ]
+}

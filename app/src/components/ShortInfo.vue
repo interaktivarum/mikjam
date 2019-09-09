@@ -13,7 +13,7 @@
     </h3>
 
     <p>
-      Under ett jam samlas människor från olika bakgrunder för att skapa tillsammans. MIK-jam pågår under en heldag, och fokus är på att ha roligt, lära sig, och inspireras av varandra.
+      Under ett jam samlas människor från olika bakgrunder för att skapa tillsammans. MIK-jam pågår normalt under en heldag, och fokus är på att ha roligt, lära sig, och inspireras av varandra.
     </p>
 
   </div>

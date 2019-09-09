@@ -17,100 +17,26 @@
     </h3>
 
     <p>
-      Under ett jam samlas människor från olika bakgrunder för att skapa tillsammans. MIK-jam pågår under en heldag, och fokus är på att ha roligt, lära sig, och inspireras av varandra.
+      Under ett jam samlas människor från olika bakgrunder för att skapa tillsammans. MIK-jam pågår normalt under en heldag, och fokus är på att ha roligt, lära sig, och inspireras av varandra.
     </p>
 
     <p>
-      Deltagarna matchas i grupper om 3-4 personer, blandat bibliotekspersonal, studenter och andra gäster. Ni får allt ni behöver för att tillsammans kunna vara kreativa och skapa, designa och presentera en lösning i slutet av dagen. Inga tidigare förkunskaper krävs. Det är blandningen av personer med olika kompetens som gör ett jam fantastiskt!
+      Deltagarna matchas i grupper om 3-4 personer, beroende på målgrupp och deltagare kan grupperna vara en blandning av bibliotekspersonal, pedagoger, journalister och studenter. Deltagarna får allt som behövs för att tillsammans kunna vara kreativa och skapa, designa och presentera en lösning i slutet av eventet. Inga tidigare förkunskaper krävs. Det är blandningen av personer med olika kompetens som gör ett jam fantastiskt!
     </p>
 
     <p>
-      Varje grupp kommer att arbeta med ett av sex teman. Samtliga <a href="#teman">teman presenteras längre ner på sidan</a> tillsammans med exempel på resultat som skulle kunna uppstå denna dag!
-    </p>
-
-    <h3>Vem kan delta?</h3>
-
-    <p>
-      MIK-jam riktar sig huvudsakligen till: <strong>bibliotekspersonal</strong> i Region Östergötland och <strong>universitetsstudenter</strong> vid Linköpings universitet. Denna grupp kommer att prioriteras för de 30 platserna.
-    </p>
-
-    <p>
-      Vem som helst, oavsett sysselsättning eller vart du bor, är däremot varmt välkommen att anmäla intresse att delta!
-    </p>
-
-    <h4>Behöver jag studera något särskilt program?</h4>
-    <p>
-      Vi har inga krav på vad du ska studera. Studenter på följande LiU-program tror vi passar särskilt bra att delta:
-      <ul>
-        <li>
-          Computational Social Science
-        </li>
-        <li>
-          Grafisk design och kommunikation
-        </li>
-        <li>
-          Innovativ programmering
-        </li>
-        <li>
-          Kognitionsvetenskap
-        </li>
-        <li>
-          Kultur, samhälle och mediegestaltning
-        </li>
-        <li>
-          Lärarprogrammen
-        </li>
-        <li>
-          Medieteknik
-        </li>
-        <li>
-          Samhällsgestaltning
-        </li>
-        <li>
-          Samhälls- och kulturanalys
-        </li>
-        <li>
-          Språk, litteratur och medier
-        </li>
-      </ul>
-    </p>
-
-    <h3>Vad kostar det?</h3>
-    <p>
-      Att delta i MIK-jam är helt gratis. Och vi bjuder på frukost, fika och lunch!
+      Varje grupp kommer att arbeta med ett av flera teman. Samtliga <a href="#teman">teman presenteras längre ner på sidan</a> tillsammans med exempel på resultat som skulle kunna uppstå under ett MIK-jam!
     </p>
 
     <h3>Vad händer sen?</h3>
 
     <p>
-      Vår förhoppning är att ni får mersmak under MIK-jam och vill arbeta vidare med era idéer efter eventet! Det är dock helt frivilligt och inget krav.
+      Förhoppningen är att deltagarna får mersmak under ett MIK-jam och vill arbeta vidare med sina idéer efter eventet! Det är dock helt frivilligt och inget krav.
     </p>
 
     <h4>Vem äger resultatet?</h4>
     <p>
-      Det är ni i er arbetsgrupp som gemensamt äger det ni skapar under MIK-jam. Ni kan välja att bygga vidare på resultatet själva, eller släppa det under öppen licens för andra att utveckla vidare.
-    </p>
-
-    <h4>Stöd för fortsatt arbete</h4>
-    <p>
-       <a href="https://www.liuinnovation.se" target="_blank">LiU Innovation</a> kan bidra med upp till 50.000 kr per lag för aktiviteter som hjälper er utveckla ert arbete, exempelvis:
-
-       <ul>
-         <li>
-           Hjälp med affärsutveckling
-         </li>
-         <li>
-           Stöd till aktiviteter (konsulttjänster, resor, kontakter)
-         </li>
-         <li>
-           Komplettering av teamet (sälj och marknadsföring, kommunikation, design etc)
-         </li>
-       </ul>
-
-    </p>
-
-    <p>
-      Bibliotekspersonal som önskar arbeta vidare med resultatet kan ansöka om medel från Digitalt Först genom Region Östergötland.
+      Det är deltagarna i respektive arbetsgrupp som gemensamt äger det de skapar under MIK-jam. Gruppen kan välja att bygga vidare på resultatet själva, eller släppa det under öppen licens för andra att utveckla vidare.
     </p>
 
   </div>

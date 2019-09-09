@@ -44,7 +44,7 @@
         <div class="section">
 
           <div class="pitchRadios">
-            Ge mig:
+            Jag vill läsa:
             <label>
               <input type="radio" name="pitch" value="false" v-model="moreInfo"/> den snabba pitchen
             </label>
@@ -62,12 +62,10 @@
           </p>
 
           <h4>Teman</h4>
-          <ol>
-            <li v-for="(theme,key) in themes">
-              {{theme.name}}
-            </li>
-          </ol>
-
+          <div class="bluebox" v-for="(theme,key) in themes">
+            {{theme.name}}
+          </div>
+          <br />
           <a href="#teman">Läs mer om alla teman</a>
 
           <short-info v-if="!moreInfo || moreInfo == 'false'"></short-info>
@@ -149,7 +147,7 @@
                 8.30
               </td>
               <td>
-                Frukost
+                Frukostfralla + kaffe
               </td>
             </tr>
             <tr>
@@ -387,22 +385,26 @@ export default {
   padding: 20px;
 }
 
-.section {
-  background: white;
-  padding: 10px;
-  box-shadow: 5px 5px 0 pink;
-  word-break: normal;
-}
-
 .pitchRadios{
   background: LightSkyBlue;
   padding: 10px;
   margin-bottom: 20px;
+  font-family: 'Roboto Condensed';
+  font-weight: 400;
 }
 
 .pitchRadios label{
   margin: 0px 0px 0px 10px;
   cursor: pointer;
+}
+
+.bluebox{
+  display: inline-block;
+  padding: 5px;
+  background: pink;
+  margin: 0px 2px 2px 0px;
+  font-weight: 400;
+  font-family: 'Roboto Condensed';
 }
 
 .circle{
